@@ -1,0 +1,1 @@
+Histogram equalization is a technique for adjusting image intensities to enhance contrast. An Image is selected and converted it to grayscale and perform histogram equalization.
